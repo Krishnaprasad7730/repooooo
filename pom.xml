@@ -9,9 +9,9 @@
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
   <version>1.8</version>
-   <properties>
+  <properties>
     <maven.compiler.source>6</maven.compiler.source>
-    <maven.compiler.target>6</maven.compiler.target>
+    <maven.compiler.target>1.6</maven.compiler.target>
 </properties>
 </project>
 
